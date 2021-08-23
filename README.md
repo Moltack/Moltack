@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <a  href="https://github.com/Moltack">
-  <img src="https://github.com/Moltack/Moltack/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
+  <img src="https://github.com/Moltack/Moltack/blob/main/images/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
   <img src="https://github.com/Moltack/Moltack/blob/main/images/dev-working.gif?raw=true" href="https://github.com/Moltack" alt="CoDiNg RocKs"  width="550"/>
  </a>  
   
