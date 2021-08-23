@@ -23,24 +23,11 @@
 <hr></hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Moltack&label=visitors%20&color=129e00&style=plastic" alt="Moltack" /> </p>
-<img align="right" alt="GIF" src="https://github.com/Moltack/Moltack/blob/main/images/Developer.gif?raw=true" width="500px" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Moltack/Moltack/blob/main/images/Developer.gif?raw=true" width="320px" height="250" />
 
-<h3 align="left">
-	<img height="40" src="https://github.com/Moltack/Moltack/blob/main/images/kyubey.gif?raw=true"/>Connect with me:
-</h3>
+<h3 align="left">Technologies & Tools</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/gennaro-cesaro-999441135/" target="blank">
-		<img align="center" src="https://github.com/Moltack/Moltack/blob/main/images/linked-in-alt.svg?raw=true" alt="moltack-chandel" height="30" width="40" />
-	</a>
-	<a href="https://www.instagram.com/gennarocesaro95" target="blank">
-		<img align="center" src="https://github.com/Moltack/Moltack/blob/main/images/instagram.svg?raw=true" alt="Moltack" height="30" width="40" />
-	</a>
-</p>
-
-<h3 align="center">Technologies & Tools</h3>
-
-<p align="center">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -64,13 +51,25 @@
 
 </p>
 
-<h3 align="center">Gaming Platforms and Technologies</h3>
-<p align="center">
+<h3 align="left">Gaming Platforms and Technologies</h3>
+<p align="left">
 <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 
+<h3 align="left">
+	Connect with me: <img height="40" src="https://github.com/Moltack/Moltack/blob/main/images/kyubey.gif?raw=true"/>
+</h3>
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/gennaro-cesaro-999441135/" target="blank">
+		<img align="center" src="https://github.com/Moltack/Moltack/blob/main/images/linked-in-alt.svg?raw=true" alt="moltack-chandel" height="30" width="40" />
+	</a>
+	<a href="https://www.instagram.com/gennarocesaro95" target="blank">
+		<img align="center" src="https://github.com/Moltack/Moltack/blob/main/images/instagram.svg?raw=true" alt="Moltack" height="30" width="40" />
+	</a>
+</p>
 
 </div>
 
