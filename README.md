@@ -5,7 +5,7 @@
   <img src="https://github.com/Moltack/Moltack/blob/main/images/dev-working.gif?raw=true" href="https://github.com/Moltack" alt="CoDiNg RocKs"  width="550"/>
  </a>  
   
-### Vibing to : ðŸŽ§  
+### Vibing to : 🎧  
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/gennarocesaro95) <br>
 
