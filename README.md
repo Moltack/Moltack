@@ -6,8 +6,7 @@
  </a>  
   
 ### Vibing to : 🎧  
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/gennarocesaro95) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gennarocesaro95&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
